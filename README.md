@@ -176,7 +176,7 @@ pip install -r requirements.txt
 
 ## 👨‍💻 About the Author
 
-**Anjana Bejjanki**
+**Anjana Bejjanki,AbhinayaSri Bandari**
 
 Aspiring AI & Machine Learning Engineer passionate about building intelligent applications using Deep Learning, Computer Vision, Generative AI, and Explainable AI (XAI).
 
