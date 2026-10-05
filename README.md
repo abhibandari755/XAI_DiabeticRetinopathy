@@ -180,7 +180,3 @@ pip install -r requirements.txt
 
 Aspiring AI & Machine Learning Engineer passionate about building intelligent applications using Deep Learning, Computer Vision, Generative AI, and Explainable AI (XAI).
 
-- 🌐 GitHub: https://github.com/abhibandari755
-- 💼 LinkedIn: https://www.linkedin.com/in/abhinaya-sri-bandari-489571324/
-
-Feel free to connect with me for collaborations, project discussions, or AI-related opportunities.
